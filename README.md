@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yahla01
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently software quality assurance engineer/tester
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
